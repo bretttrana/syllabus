@@ -1,6 +1,6 @@
 # Web Technologies Syllabus
 
-* **Course:** CPTR 335 - Web Technologies
+* **Course:** CPTR 335 - Web Technologieses
 * **Instructor:** Brett Trana, [barberboy@gmail.com](mailto:barberboy@gmail.com)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech)
